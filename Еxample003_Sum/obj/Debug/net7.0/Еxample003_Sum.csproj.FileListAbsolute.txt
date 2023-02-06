@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples\Еxample003_Sum\bin\Debug\net7.0\Еxample003_Sum.exe
+C:\Users\user\Desktop\Examples\Еxample003_Sum\bin\Debug\net7.0\Еxample003_Sum.deps.json
+C:\Users\user\Desktop\Examples\Еxample003_Sum\bin\Debug\net7.0\Еxample003_Sum.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Еxample003_Sum\bin\Debug\net7.0\Еxample003_Sum.dll
+C:\Users\user\Desktop\Examples\Еxample003_Sum\bin\Debug\net7.0\Еxample003_Sum.pdb
+C:\Users\user\Desktop\Examples\Еxample003_Sum\obj\Debug\net7.0\Еxample003_Sum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Еxample003_Sum\obj\Debug\net7.0\Еxample003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Еxample003_Sum\obj\Debug\net7.0\Еxample003_Sum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Еxample003_Sum\obj\Debug\net7.0\Еxample003_Sum.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Еxample003_Sum\obj\Debug\net7.0\Еxample003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Еxample003_Sum\obj\Debug\net7.0\Еxample003_Sum.dll
+C:\Users\user\Desktop\Examples\Еxample003_Sum\obj\Debug\net7.0\refint\Еxample003_Sum.dll
+C:\Users\user\Desktop\Examples\Еxample003_Sum\obj\Debug\net7.0\Еxample003_Sum.pdb
+C:\Users\user\Desktop\Examples\Еxample003_Sum\obj\Debug\net7.0\Еxample003_Sum.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Еxample003_Sum\obj\Debug\net7.0\ref\Еxample003_Sum.dll
