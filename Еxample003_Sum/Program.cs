@@ -2,7 +2,8 @@
 int numberВ = 5;
 Console.WriteLine(numberA + numberВ ); */
 
-int numberA = 31; 
+/*int numberA = 31; 
 int numberВ = 5; 
 int result = numberA + numberВ; 
-Console.WriteLine(result); 
+Console.WriteLine(result); */
+
