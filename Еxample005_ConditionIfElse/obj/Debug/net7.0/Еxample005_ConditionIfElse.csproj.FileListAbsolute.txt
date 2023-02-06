@@ -3,3 +3,13 @@ C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxa
 C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.AssemblyInfoInputs.cache
 C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.AssemblyInfo.cs
 C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\bin\Debug\net7.0\Еxample005_ConditionIfElse.exe
+C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\bin\Debug\net7.0\Еxample005_ConditionIfElse.deps.json
+C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\bin\Debug\net7.0\Еxample005_ConditionIfElse.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\bin\Debug\net7.0\Еxample005_ConditionIfElse.dll
+C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\bin\Debug\net7.0\Еxample005_ConditionIfElse.pdb
+C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.dll
+C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\refint\Еxample005_ConditionIfElse.dll
+C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.pdb
+C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\ref\Еxample005_ConditionIfElse.dll
