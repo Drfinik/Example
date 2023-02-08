@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Антон\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Examples\\Еxample005_ConditionIfElse\\Еxample005_ConditionIfElse.csproj",
+      "projectUniqueName": "G:\\My Projects\\C#\\Examples\\Еxample005_ConditionIfElse\\Еxample005_ConditionIfElse.csproj",
       "projectName": "Еxample005_ConditionIfElse",
-      "projectPath": "C:\\Users\\user\\Desktop\\Examples\\Еxample005_ConditionIfElse\\Еxample005_ConditionIfElse.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Examples\\Еxample005_ConditionIfElse\\obj\\",
+      "projectPath": "G:\\My Projects\\C#\\Examples\\Еxample005_ConditionIfElse\\Еxample005_ConditionIfElse.csproj",
+      "packagesPath": "C:\\Users\\Антон\\.nuget\\packages\\",
+      "outputPath": "G:\\My Projects\\C#\\Examples\\Еxample005_ConditionIfElse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Антон\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

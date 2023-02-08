@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Examples\\Еxample004_Div\\Еxample004_Div.csproj": {}
+    "G:\\My Projects\\C#\\Examples\\Еxample004_Div\\Еxample004_Div.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Examples\\Еxample004_Div\\Еxample004_Div.csproj": {
+    "G:\\My Projects\\C#\\Examples\\Еxample004_Div\\Еxample004_Div.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Examples\\Еxample004_Div\\Еxample004_Div.csproj",
+        "projectUniqueName": "G:\\My Projects\\C#\\Examples\\Еxample004_Div\\Еxample004_Div.csproj",
         "projectName": "Еxample004_Div",
-        "projectPath": "C:\\Users\\user\\Desktop\\Examples\\Еxample004_Div\\Еxample004_Div.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Examples\\Еxample004_Div\\obj\\",
+        "projectPath": "G:\\My Projects\\C#\\Examples\\Еxample004_Div\\Еxample004_Div.csproj",
+        "packagesPath": "C:\\Users\\Антон\\.nuget\\packages\\",
+        "outputPath": "G:\\My Projects\\C#\\Examples\\Еxample004_Div\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Антон\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

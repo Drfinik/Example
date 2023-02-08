@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Антон\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Examples\\Еxample003_Sum\\Еxample003_Sum.csproj",
+      "projectUniqueName": "G:\\My Projects\\C#\\Examples\\Еxample003_Sum\\Еxample003_Sum.csproj",
       "projectName": "Еxample003_Sum",
-      "projectPath": "C:\\Users\\user\\Desktop\\Examples\\Еxample003_Sum\\Еxample003_Sum.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Examples\\Еxample003_Sum\\obj\\",
+      "projectPath": "G:\\My Projects\\C#\\Examples\\Еxample003_Sum\\Еxample003_Sum.csproj",
+      "packagesPath": "C:\\Users\\Антон\\.nuget\\packages\\",
+      "outputPath": "G:\\My Projects\\C#\\Examples\\Еxample003_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Антон\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

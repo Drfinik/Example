@@ -13,3 +13,18 @@ C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\refi
 C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.pdb
 C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.genruntimeconfig.cache
 C:\Users\user\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\ref\Еxample005_ConditionIfElse.dll
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\bin\Debug\net7.0\Еxample005_ConditionIfElse.exe
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\bin\Debug\net7.0\Еxample005_ConditionIfElse.deps.json
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\bin\Debug\net7.0\Еxample005_ConditionIfElse.runtimeconfig.json
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\bin\Debug\net7.0\Еxample005_ConditionIfElse.dll
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\bin\Debug\net7.0\Еxample005_ConditionIfElse.pdb
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.csproj.AssemblyReference.cache
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.AssemblyInfoInputs.cache
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.AssemblyInfo.cs
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.csproj.CoreCompileInputs.cache
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.dll
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\refint\Еxample005_ConditionIfElse.dll
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.pdb
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\Еxample005_ConditionIfElse.genruntimeconfig.cache
+G:\My Projects\C#\Examples\Еxample005_ConditionIfElse\obj\Debug\net7.0\ref\Еxample005_ConditionIfElse.dll

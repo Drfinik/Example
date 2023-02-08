@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Example\\Example002_НelloUser\\Example002_НelloUser.csproj": {}
+    "G:\\My Projects\\C#\\Examples\\Example002_НelloUser\\Example002_НelloUser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Example\\Example002_НelloUser\\Example002_НelloUser.csproj": {
+    "G:\\My Projects\\C#\\Examples\\Example002_НelloUser\\Example002_НelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Example\\Example002_НelloUser\\Example002_НelloUser.csproj",
+        "projectUniqueName": "G:\\My Projects\\C#\\Examples\\Example002_НelloUser\\Example002_НelloUser.csproj",
         "projectName": "Example002_НelloUser",
-        "projectPath": "C:\\Users\\user\\Desktop\\Example\\Example002_НelloUser\\Example002_НelloUser.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Example\\Example002_НelloUser\\obj\\",
+        "projectPath": "G:\\My Projects\\C#\\Examples\\Example002_НelloUser\\Example002_НelloUser.csproj",
+        "packagesPath": "C:\\Users\\Антон\\.nuget\\packages\\",
+        "outputPath": "G:\\My Projects\\C#\\Examples\\Example002_НelloUser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Антон\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

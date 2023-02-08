@@ -13,3 +13,18 @@ C:\Users\user\Desktop\Example\Example002_НelloUser\obj\Debug\net7.0\refint\Exam
 C:\Users\user\Desktop\Example\Example002_НelloUser\obj\Debug\net7.0\Example002_НelloUser.pdb
 C:\Users\user\Desktop\Example\Example002_НelloUser\obj\Debug\net7.0\Example002_НelloUser.genruntimeconfig.cache
 C:\Users\user\Desktop\Example\Example002_НelloUser\obj\Debug\net7.0\ref\Example002_НelloUser.dll
+G:\My Projects\C#\Examples\Example002_НelloUser\bin\Debug\net7.0\Example002_НelloUser.exe
+G:\My Projects\C#\Examples\Example002_НelloUser\bin\Debug\net7.0\Example002_НelloUser.deps.json
+G:\My Projects\C#\Examples\Example002_НelloUser\bin\Debug\net7.0\Example002_НelloUser.runtimeconfig.json
+G:\My Projects\C#\Examples\Example002_НelloUser\bin\Debug\net7.0\Example002_НelloUser.dll
+G:\My Projects\C#\Examples\Example002_НelloUser\bin\Debug\net7.0\Example002_НelloUser.pdb
+G:\My Projects\C#\Examples\Example002_НelloUser\obj\Debug\net7.0\Example002_НelloUser.csproj.AssemblyReference.cache
+G:\My Projects\C#\Examples\Example002_НelloUser\obj\Debug\net7.0\Example002_НelloUser.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Projects\C#\Examples\Example002_НelloUser\obj\Debug\net7.0\Example002_НelloUser.AssemblyInfoInputs.cache
+G:\My Projects\C#\Examples\Example002_НelloUser\obj\Debug\net7.0\Example002_НelloUser.AssemblyInfo.cs
+G:\My Projects\C#\Examples\Example002_НelloUser\obj\Debug\net7.0\Example002_НelloUser.csproj.CoreCompileInputs.cache
+G:\My Projects\C#\Examples\Example002_НelloUser\obj\Debug\net7.0\Example002_НelloUser.dll
+G:\My Projects\C#\Examples\Example002_НelloUser\obj\Debug\net7.0\refint\Example002_НelloUser.dll
+G:\My Projects\C#\Examples\Example002_НelloUser\obj\Debug\net7.0\Example002_НelloUser.pdb
+G:\My Projects\C#\Examples\Example002_НelloUser\obj\Debug\net7.0\Example002_НelloUser.genruntimeconfig.cache
+G:\My Projects\C#\Examples\Example002_НelloUser\obj\Debug\net7.0\ref\Example002_НelloUser.dll
