@@ -1,0 +1,15 @@
+G:\My Projects\C#\Examples\Example007_Magic\bin\Debug\net7.0\Example007_Magic.exe
+G:\My Projects\C#\Examples\Example007_Magic\bin\Debug\net7.0\Example007_Magic.deps.json
+G:\My Projects\C#\Examples\Example007_Magic\bin\Debug\net7.0\Example007_Magic.runtimeconfig.json
+G:\My Projects\C#\Examples\Example007_Magic\bin\Debug\net7.0\Example007_Magic.dll
+G:\My Projects\C#\Examples\Example007_Magic\bin\Debug\net7.0\Example007_Magic.pdb
+G:\My Projects\C#\Examples\Example007_Magic\obj\Debug\net7.0\Example007_Magic.csproj.AssemblyReference.cache
+G:\My Projects\C#\Examples\Example007_Magic\obj\Debug\net7.0\Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Projects\C#\Examples\Example007_Magic\obj\Debug\net7.0\Example007_Magic.AssemblyInfoInputs.cache
+G:\My Projects\C#\Examples\Example007_Magic\obj\Debug\net7.0\Example007_Magic.AssemblyInfo.cs
+G:\My Projects\C#\Examples\Example007_Magic\obj\Debug\net7.0\Example007_Magic.csproj.CoreCompileInputs.cache
+G:\My Projects\C#\Examples\Example007_Magic\obj\Debug\net7.0\Example007_Magic.dll
+G:\My Projects\C#\Examples\Example007_Magic\obj\Debug\net7.0\refint\Example007_Magic.dll
+G:\My Projects\C#\Examples\Example007_Magic\obj\Debug\net7.0\Example007_Magic.pdb
+G:\My Projects\C#\Examples\Example007_Magic\obj\Debug\net7.0\Example007_Magic.genruntimeconfig.cache
+G:\My Projects\C#\Examples\Example007_Magic\obj\Debug\net7.0\ref\Example007_Magic.dll
