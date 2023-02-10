@@ -4,7 +4,7 @@ public class MyProgram
 {
     public static void Main(string[] args)
     {
-        int count, time, distance, dogSpeed, secondFriendSpeed, firstFriendSpeed, friend, rast, max, stm, dtm;
+        int count, time, distance, dogSpeed, secondFriendSpeed, firstFriendSpeed, friend, rast, stm;
         
         count = 0;
         distance = 20000;
